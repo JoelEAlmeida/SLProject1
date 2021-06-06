@@ -1,0 +1,17 @@
+pipeline {
+
+	agent anu
+	
+	stages {
+
+		stages("build") {
+
+			steps {
+
+			}
+		
+		}
+	
+	}
+
+}	
